@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm ANDRÉ MARTINS</h1>
+<h1 align="center">Hi 👋, I'm André Martins</h1>
 <h3 align="center">Physicist and aspiring Data Scientist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andrefilipemm&label=Profile%20views&color=0e75b6&style=flat" alt="andrefilipemm" /> </p>
