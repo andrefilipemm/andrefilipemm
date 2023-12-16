@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm André Martins</h1>
-<h3 align="center">Physicist</h3>
+<h3 align="center">Physicist | Data Infrastructure Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andrefilipemm&label=Profile%20views&color=0e75b6&style=flat" alt="andrefilipemm" /> </p>
 
-- 🌱 I’m currently enrolled in a Data Infrastructure Engineering internship @FARFETCH
+- 🌱 I’m currently interested in IaC, Cloud Engineering
 
-- 💬 Ask me about **Physics , Mathematics , Statistics**
+- 💬 Ask me about **Terraform, Databricks, Mathematics, Physics**
 
 - 📫 How to reach me **andreparticularmartins@gmail.com**
 
